@@ -4,3 +4,6 @@
 [submodule "434"]
 	path = 434
 	url = https://github.com/nkarl/wsu-cpts-434.git
+[submodule "360"]
+	path = 360
+	url = https://github.com/nkarl/wsu-cpts-360.git
