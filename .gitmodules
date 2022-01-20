@@ -7,3 +7,6 @@
 [submodule "360"]
 	path = 360
 	url = https://github.com/nkarl/wsu-cpts-360.git
+[submodule "471"]
+	path = 471
+	url = https://github.com/wsu-cpts-471-computational-genomics.git
