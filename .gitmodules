@@ -10,3 +10,6 @@
 [submodule "471"]
 	path = 471
 	url = https://github.com/wsu-cpts-471-computational-genomics.git
+[submodule "423-CAPSTONE"]
+	path = 423-CAPSTONE
+	url = https://github.com/nkarl/wsu-cpts-capstone.git
